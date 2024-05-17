@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-color: #f7cb47;
+    background-image: linear-gradient(120deg, #f7cb47, #f7cb47);
+}
+
+summary {
+    color: gray;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+}
+
+details {
+    color: gray;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+}
