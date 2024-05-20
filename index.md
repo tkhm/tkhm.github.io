@@ -6,6 +6,7 @@ layout: default
 # Blog
 - Ideas and thoughts [tkhm on software](https://blog.tkhm.dev)
 - Technical How-to [Zenn](https://zenn.dev/tkhm)
+- Fleeting notes [Bluesky](https://bsky.app/profile/tkhm.dev)
 
 # Development
 - GitHub [tkhm](https://github.com/tkhm)
